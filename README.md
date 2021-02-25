@@ -1,2 +1,2 @@
-# MCPTT
-Mission Ciritcal Push To Talk - HubOne 
+# Mission
+MCPTT - HubOne 
